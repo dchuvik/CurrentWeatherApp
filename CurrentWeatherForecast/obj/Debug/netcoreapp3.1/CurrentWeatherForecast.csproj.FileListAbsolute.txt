@@ -1,0 +1,16 @@
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\bin\Debug\netcoreapp3.1\CurrentWeatherForecast.exe
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\bin\Debug\netcoreapp3.1\CurrentWeatherForecast.deps.json
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\bin\Debug\netcoreapp3.1\CurrentWeatherForecast.runtimeconfig.json
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\bin\Debug\netcoreapp3.1\CurrentWeatherForecast.runtimeconfig.dev.json
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\bin\Debug\netcoreapp3.1\CurrentWeatherForecast.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\bin\Debug\netcoreapp3.1\CurrentWeatherForecast.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\obj\Debug\netcoreapp3.1\CurrentWeatherForecast.csproj.AssemblyReference.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\obj\Debug\netcoreapp3.1\CurrentWeatherForecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\obj\Debug\netcoreapp3.1\CurrentWeatherForecast.AssemblyInfoInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\obj\Debug\netcoreapp3.1\CurrentWeatherForecast.AssemblyInfo.cs
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\obj\Debug\netcoreapp3.1\CurrentWeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\obj\Debug\netcoreapp3.1\CurrentWeatherForecast.csproj.CopyComplete
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\obj\Debug\netcoreapp3.1\CurrentWeatherForecast.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\obj\Debug\netcoreapp3.1\CurrentWeatherForecast.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\CurrentWeatherForecast\CurrentWeatherForecast\obj\Debug\netcoreapp3.1\CurrentWeatherForecast.genruntimeconfig.cache

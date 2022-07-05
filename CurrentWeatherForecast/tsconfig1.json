@@ -1,0 +1,54 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ]
+  {
+    "coord": {
+      "lon": -76.2262,
+      "lat": 43.0409
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 295.65,
+      "feels_like": 296.17,
+      "temp_min": 293.48,
+      "temp_max": 297.15,
+      "pressure": 1008,
+      "humidity": 85
+    },
+    "visibility": 6437,
+    "wind": {
+      "speed": 4.12,
+      "deg": 140
+    },
+    "clouds": { "all": 100 },
+    "dt": 1657054021,
+    "sys": {
+      "type": 2,
+      "id": 2011845,
+      "country": "US",
+      "sunrise": 1657013497,
+      "sunset": 1657068421
+    },
+    "timezone": -14400,
+    "id": 0,
+    "name": "Syracuse",
+    "cod": 200
+  }
+}
